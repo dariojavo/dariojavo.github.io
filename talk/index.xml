@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Yongcheng Liu&#39;s Homepage</title>
+    <link>https://yochengliu.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Yongcheng Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jun 2021 13:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://yochengliu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Research Advances on Deep Learning for 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/8-huaweiml/</link>
+      <pubDate>Thu, 17 Jun 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/8-huaweiml/</guid>
+      <description>Invited live talk at HUAWEI</description>
+    </item>
+    
+    <item>
+      <title>Exploration of Deep Learning in 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/7-jiangmen/</link>
+      <pubDate>Thu, 01 Aug 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/7-jiangmen/</guid>
+      <description>Invited live talk at &lt;a href=&#34;https://www.bilibili.com/video/BV1et411F78Y&#34; target=&#34;_blank&#34;&gt;JIANGMEN TechBeat&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/6-cvte/</link>
+      <pubDate>Fri, 24 May 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/6-cvte/</guid>
+      <description>Invited talk at CVTE Central Research Institute.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning (CNN) in 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/5-msra/</link>
+      <pubDate>Tue, 30 Apr 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/5-msra/</guid>
+      <description>Academic seminar with top-talent researchers led by &lt;a href=&#34;https://jifengdai.org/&#34; target=&#34;_blank&#34;&gt;Jifeng Dai&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Geometric Relation Learning in 3D Point Cloud Analysis</title>
+      <link>https://yochengliu.github.io/talk/4-sffai25/</link>
+      <pubDate>Sun, 21 Apr 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/4-sffai25/</guid>
+      <description>Academic report on Student Forums on Frontiers of Artificial Intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://yochengliu.github.io/talk/3-ai-forum/</link>
+      <pubDate>Sat, 30 Mar 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/3-ai-forum/</guid>
+      <description>Academic report on Beijing Universities Academic Forum of Artificial Intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://yochengliu.github.io/talk/2-mm2018/</link>
+      <pubDate>Wed, 24 Oct 2018 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/2-mm2018/</guid>
+      <description>Fast forward presentation at ACM Multimedia 2018.</description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Cascade Network for Semantic Labeling in VHR Image</title>
+      <link>https://yochengliu.github.io/talk/1-icip2017/</link>
+      <pubDate>Mon, 18 Sep 2017 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/1-icip2017/</guid>
+      <description>Oral presentation at ICIP 2017.</description>
+    </item>
+    
+  </channel>
+</rss>
